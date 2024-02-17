@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  be:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-02-17T21:42:11.042977096+09:00"
+    description: A Helm chart for be
+    digest: 9e282224f51247c9fdb60270d17d3644b828dd10596376f4fcb2fcca322bb020
+    name: be
+    type: application
+    urls:
+    - be-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-02-17T21:42:11.042276026+09:00"

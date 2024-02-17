@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  devops:
+  - apiVersion: v2
+    created: "2024-02-17T21:42:21.045380483+09:00"
+    description: A Helm chart for the 'devops' application
+    digest: fd1274beb0368038e6b6ff43e215aa3661372f19d494476c6b51ffbe6a53a0bc
+    name: devops
+    urls:
+    - devops-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-02-17T21:42:21.044791913+09:00"
